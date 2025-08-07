@@ -15,7 +15,3 @@
 ## Screenshot
 
 ![App Screenshot](./screenshot.png)
-
----
-
-**Developed by Frontend Engineer - BPM (Business Process Engineering)**
